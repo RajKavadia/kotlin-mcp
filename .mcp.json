@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kotlin-runtime-mcp": {
+      "command": "C:\\Users\\USER\\Desktop\\flutter_whisper_mcp\\kotlin-mcp\\build\\install\\kotlin-runtime-mcp\\bin\\kotlin-runtime-mcp.bat",
+      "args": []
+    }
+  }
+}
